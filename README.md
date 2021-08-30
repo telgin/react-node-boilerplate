@@ -1,8 +1,9 @@
 # react-node-boilerplate
-Simple client/server boilerplate for getting started quickly. A slimmer version of create-react-app + server side, good for experiments.
+Simple client/server boilerplate for getting started quickly. This is a slimmer version of create-react-app + a simple server side.
 
 ## What?
 Client: modified version of create-react-app
+
 Server: express
 
 ## Commands
