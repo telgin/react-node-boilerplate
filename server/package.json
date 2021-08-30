@@ -1,0 +1,21 @@
+{
+  "name": "react-node-boilerplate-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rm -rf dist/* && npx babel src -d dist",
+    "start": "npm run build && node dist/index.js"
+  },
+  "author": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.7.7",
+    "@babel/core": "^7.7.7",
+    "@babel/plugin-transform-modules-commonjs": "^7.7.5"
+  }
+}

@@ -1,2 +1,12 @@
 .idea/
+node_modules/
 dist/
+
+
+server/node_modules/
+server/dist/
+server/public/
+
+
+ui/node_modules/
+ui/dist/
