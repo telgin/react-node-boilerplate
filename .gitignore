@@ -8,5 +8,5 @@ server/dist/
 server/public/
 
 
-ui/node_modules/
-ui/dist/
+client/node_modules/
+client/dist/
